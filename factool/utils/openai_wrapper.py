@@ -1,5 +1,3 @@
-# the async version is adapted from https://gist.github.com/neubig/80de662fb3e225c18172ec218be4917a
-
 from __future__ import annotations
 
 import os
@@ -15,27 +13,41 @@ import openai
 import re
 
 
-# from factool.env_config import factool_env_config
+# OpenRouter configuration - these will be set from the main script
+OPENROUTER_API_BASE = None
+OPENROUTER_API_KEY = None
+DEEPSEEK_MODEL = "deepseek/deepseek-chat"
 
-# env
-# openai.api_key = factool_env_config.openai_api_key
+def set_openrouter_config(api_base, api_key):
+    global OPENROUTER_API_BASE, OPENROUTER_API_KEY
+    OPENROUTER_API_BASE = api_base
+    OPENROUTER_API_KEY = api_key
 
 class OpenAIChat():
     def __init__(
             self,
-            model_name='gpt-3.5-turbo',
+            model_name=DEEPSEEK_MODEL,
             max_tokens=2500,
             temperature=0,
             top_p=1,
             request_timeout=120,
     ):
-        if 'gpt' not in model_name:
-            openai.api_base = "http://localhost:8000/v1"
-        else:
-            #openai.api_base = "https://api.openai.com/v1"
-            openai.api_key = os.environ.get("OPENAI_API_KEY", None)
-            assert openai.api_key is not None, "Please set the OPENAI_API_KEY environment variable."
-            assert openai.api_key !='', "Please set the OPENAI_API_KEY environment variable."
+        # Use global configuration or environment variables
+        self.api_base = OPENROUTER_API_BASE or os.environ.get("OPENROUTER_API_BASE", "https://openrouter.ai/api/v1")
+        self.api_key = OPENROUTER_API_KEY or os.environ.get("OPENROUTER_API_KEY")
+        
+        if not self.api_key:
+            raise ValueError("OpenRouter API key is not set. Please set OPENROUTER_API_KEY environment variable.")
+        
+        # Configure for OpenRouter
+        openai.api_base = self.api_base
+        openai.api_key = self.api_key
+        
+        # Set default headers for OpenRouter
+        openai.default_headers = {
+            "HTTP-Referer": "http://localhost:3000",
+            "X-Title": "Factool",
+        }
 
         self.config = {
             'model_name': model_name,
@@ -45,13 +57,9 @@ class OpenAIChat():
             'request_timeout': request_timeout,
         }
 
+    
+
     def extract_list_from_string(self, input_string):
-        # pattern = r'\[.*\]'  
-        # result = re.search(pattern, input_string)
-        # if result:
-        #     return result.group()
-        # else:
-        #     return None
         start_index = input_string.find('[')  
         end_index = input_string.rfind(']') 
 
@@ -79,33 +87,13 @@ class OpenAIChat():
                 return None
             return output_eval
         except:
-            '''
-            if(expected_type == List):
-                valid_output = self.extract_list_from_string(output)
-                output_eval = ast.literal_eval(valid_output)
-                if not isinstance(output_eval, expected_type):
-                    return None
-                return output_eval
-            elif(expected_type == dict):
-                valid_output = self.extract_dict_from_string(output)
-                output_eval = ast.literal_eval(valid_output)
-                if not isinstance(output_eval, expected_type):
-                    return None
-                return output_eval
-            '''
             return None
 
     async def dispatch_openai_requests(
         self,
         messages_list,
     ) -> list[str]:
-        """Dispatches requests to OpenAI API asynchronously.
-        
-        Args:
-            messages_list: List of messages to be sent to OpenAI ChatCompletion API.
-        Returns:
-            List of responses from OpenAI API.
-        """
+        """Dispatches requests to OpenRouter API asynchronously."""
         async def _request_with_retry(messages, retry=3):
             for _ in range(retry):
                 try:
@@ -132,6 +120,9 @@ class OpenAIChat():
                     await asyncio.sleep(3)
                 except openai.error.APIConnectionError:
                     print('API Connection error, waiting for 3 second...')
+                    await asyncio.sleep(3)
+                except Exception as e:
+                    print(f'Unexpected error: {e}, waiting for 3 second...')
                     await asyncio.sleep(3)
 
             return None
@@ -170,12 +161,18 @@ class OpenAIChat():
         
         return responses
 
-class OpenAIEmbed():
-    def __init__():
-        openai.api_key = os.environ.get("OPENAI_API_KEY", None)
-        assert openai.api_key is not None, "Please set the OPENAI_API_KEY environment variable."
-        assert openai.api_key != '', "Please set the OPENAI_API_KEY environment variable."
+def set_openrouter_config(api_base, api_key):
+    global OPENROUTER_API_BASE, OPENROUTER_API_KEY
+    OPENROUTER_API_BASE = api_base
+    OPENROUTER_API_KEY = api_key
 
+class OpenAIEmbed():
+    def __init__(self):
+        # For embeddings, we'll use OpenAI since OpenRouter doesn't provide embeddings
+        self.api_key = os.environ.get("OPENAI_API_KEY")
+        if not self.api_key:
+            print("Warning: OpenAI API key not found. Embeddings may not work.")
+    
     async def create_embedding(self, text, retry=3):
         for _ in range(retry):
             try:
@@ -190,26 +187,11 @@ class OpenAIEmbed():
             except openai.error.Timeout:
                 print('Timeout error, waiting for 1 second...')
                 await asyncio.sleep(1)
+            except Exception as e:
+                print(f'Embedding error: {e}, waiting for 1 second...')
+                await asyncio.sleep(1)
         return None
 
     async def process_batch(self, batch, retry=3):
         tasks = [self.create_embedding(text, retry=retry) for text in batch]
         return await asyncio.gather(*tasks)
-
-if __name__ == "__main__":
-    chat = OpenAIChat(model_name='llama-2-7b-chat-hf')
-
-    predictions = asyncio.run(chat.async_run(
-        messages_list=[
-            [{"role": "user", "content": "show either 'ab' or '['a']'. Do not do anything else."}],
-        ] * 20,
-        expected_type=List,
-    ))
-
-    print(predictions)
-    # Usage
-    # embed = OpenAIEmbed()
-    # batch = ["string1", "string2", "string3", "string4", "string5", "string6", "string7", "string8", "string9", "string10"]  # Your batch of strings
-    # embeddings = asyncio.run(embed.process_batch(batch, retry=3))
-    # for embedding in embeddings:
-    #     print(embedding["data"][0]["embedding"])

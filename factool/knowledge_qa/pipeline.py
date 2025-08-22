@@ -6,28 +6,50 @@ import math
 import pdb
 from typing import List, Dict
 
-from factool.knowledge_qa.tool import google_search
 from factool.knowledge_qa.tool import local_search
 from factool.utils.base.pipeline import pipeline
 
 class knowledge_qa_pipeline(pipeline):
-    def __init__(self, foundation_model, snippet_cnt, search_type, data_link=None, Embed_link=None):
+    def __init__(self, foundation_model, snippet_cnt, data_link=None, Embed_link=None):
+        """Simplified constructor that only supports local search"""
         super().__init__('knowledge_qa', foundation_model)
-        if(search_type == 'online'):
-            self.tool = google_search(snippet_cnt = snippet_cnt)
-        elif(search_type == 'local'):
-            self.tool = local_search(snippet_cnt = snippet_cnt, data_link=data_link, embedding_link=Embed_link)
-        with open(os.path.join(self.prompts_path, "claim_extraction.yaml"), 'r') as file:
-            data = yaml.load(file, Loader=yaml.FullLoader)
-        self.claim_prompt = data['knowledge_qa']
+        
+        # Always use local search
+        self.tool = local_search(snippet_cnt=snippet_cnt, data_link=data_link, embedding_link=Embed_link)
+        
+        # Load prompts with proper encoding
+        try:
+            with open(os.path.join(self.prompts_path, "claim_extraction.yaml"), 'r', encoding='utf-8') as file:
+                data = yaml.load(file, Loader=yaml.FullLoader)
+            self.claim_prompt = data['knowledge_qa']
+        except:
+            # Fallback to hardcoded prompts
+            self.claim_prompt = {
+                'system': 'You are a helpful assistant that extracts factual claims from text.',
+                'user': 'Extract factual claims from the following text:\n\n{input}'
+            }
 
-        with open(os.path.join(self.prompts_path, 'query_generation.yaml'), 'r') as file:
-            data = yaml.load(file, Loader=yaml.FullLoader)
-        self.query_prompt = data['knowledge_qa']
+        try:
+            with open(os.path.join(self.prompts_path, 'query_generation.yaml'), 'r', encoding='utf-8') as file:
+                data = yaml.load(file, Loader=yaml.FullLoader)
+            self.query_prompt = data['knowledge_qa']
+        except:
+            self.query_prompt = {
+                'system': 'You are a helpful assistant that generates search queries to verify factual claims.',
+                'user': 'Generate a search query to verify the following claim: {input}'
+            }
 
-        with open(os.path.join(self.prompts_path, 'agreement_verification.yaml'), 'r') as file:
-            data = yaml.load(file, Loader=yaml.FullLoader)
-        self.verification_prompt = data['knowledge_qa']
+        try:
+            with open(os.path.join(self.prompts_path, 'agreement_verification.yaml'), 'r', encoding='utf-8') as file:
+                data = yaml.load(file, Loader=yaml.FullLoader)
+            self.verification_prompt = data['knowledge_qa']
+        except:
+            self.verification_prompt = {
+                'system': 'You are a fact-checker. Determine if the claim is supported by the evidence.',
+                'user': 'Claim: {claim}\n\nEvidence: {evidence}\n\nIs the claim supported by the evidence? Respond with JSON: {{"factuality": true/false, "reasoning": "explanation"}}'
+            }
+    
+    
     
     async def _claim_extraction(self, responses):
         messages_list = [
@@ -82,8 +104,16 @@ class knowledge_qa_pipeline(pipeline):
     
     async def run_with_tool_live_without_claim_extraction(self, claims):
         queries = await self._query_generation(claims)
-        evidences = await self.tool.run(queries)
-
+        search_outputs = await self.tool.run(queries)
+        
+        # Flatten the search outputs structure
+        evidences = []
+        for output in search_outputs:
+            if isinstance(output, list):
+                evidences.append([item['content'] for item in output])
+            else:
+                evidences.append([output['content']])
+        
         final_response = await self._verification(claims, evidences)
         for i in range(len(final_response)):
             if final_response[i] != None:
@@ -91,6 +121,14 @@ class knowledge_qa_pipeline(pipeline):
                 final_response[i]['evidences'] = evidences[i]
 
         return final_response
+    
+    async def run_with_pre_extracted_claims(self, claims, source_file_path):
+        """New method to run with pre-extracted claims and a specific source file"""
+        # Reinitialize local search with the provided source file
+        self.tool = local_search(snippet_cnt=5, data_link=source_file_path)
+        
+        # Run the pipeline without claim extraction
+        return await self.run_with_tool_live_without_claim_extraction(claims)
     
     async def run_with_tool_api_call(self, prompts, responses):
         batch_size = 5
@@ -122,8 +160,6 @@ class knowledge_qa_pipeline(pipeline):
                 self.sample_list[index].update({
                     'claims': claims_in_response,
                     'queries': queries_in_response,
-                    # 'evidences': evidences_in_response,
-                    # 'sources': sources_in_response,
                     'evidences': evidences_with_source,
                     'claim_level_factuality': verifications_in_response,
                     'response_level_factuality': all([verification['factuality'] if verification != None else True for verification in verifications_in_response])

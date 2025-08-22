@@ -1,0 +1,1057 @@
+[
+  {
+    "reasoning": "The given text states that linguistics as a scientific study began in the 19th century. The provided evidences mention that the history of linguistics includes discussions and controversies among eighteenth- and nineteenth-century European philosophers and philologists. Additionally, the evidence references the Société de Linguistique de Paris’ 1866 ban, which indicates that linguistics was already an established field by the mid-19th century. Therefore, the text is factual as it aligns with the evidence that linguistics as a scientific study began in the 19th century.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "When did linguistics as a scientific study begin?",
+      "History of linguistics 19th century"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually",
+      "How did linguistic diversity start",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "MUFWENE intellectualengagementhasbeeninsharpcontrastwithmostofthetwentiethcentury, during which linguists appear to have abided by the the Société de Linguistique de Paris’ 1866 ban on discussing the subject at its meetings",
+      "It appears also to have resurrected several positions by—and controversies among—especially eighteenth- and nineteenth-century European philosophers and philologists"
+    ]
+  },
+  {
+    "reasoning": "The given text states that the ancient Indian scholar Panini created one of the earliest known grammars. This is a well-documented fact in the history of linguistics. Panini's work, the 'Ashtadhyayi,' is indeed one of the earliest and most comprehensive grammars known, dating back to around 500 BCE. The provided evidences do not contradict this fact, and they do not provide any information that would challenge the accuracy of this statement. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "Who created one of the earliest known grammars?",
+      "Panini ancient Indian scholar grammar"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "I show below that thedifferencesbetweenthetwoperiodslieespeciallyinthestrongerempiricalfounda- tionsofsomerecenthypotheses,andintherealizationbytheirauthorsoftheneedfor interdisciplinaryscholarship",
+      "This is definitely the kind of thing that scholars could not do before the twentieth century; it is important to assess its heuristic significance",
+      "The positions of the scholars I discuss may not even be presented in their entirety, due largely to space limitations",
+      "Imustalsoapologizeforfocusingexclusivelyon Westernscholarship,whichreflectsmyembarrassingignoranceoftheothertraditions",
+      "Iwillseekno excuseforthefactthatEuropeancolonialexpansion,whichhasshaped meintellectually,hasgenerallydownplayedwhatwecouldbelearningfromtheother scholarlytraditions"
+    ]
+  },
+  {
+    "reasoning": "The given text states that Ferdinand de Saussure introduced the concepts of 'langue' and 'parole'. This is supported by evidence from Saussure (1962 [1916]), which mentions his observations on 'le langage' and the distinction between 'langue' and 'parole'. Additionally, the evidence anticipates modern linguists and references Saussure's 'faculté de langage', further corroborating his introduction of these concepts. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "Who introduced the concepts of 'langue' and 'parole'?",
+      "Ferdinand de Saussure langue parole"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "Anticipating modern linguists, he clarified that what is being discussed is the capacity for language, what Ferdinand de SaussurereferredtoasthefacultédelangageandgenerativistsasUniversalGrammar or biological endowment for language",
+      "AnotherimportantphilosopheroftheeighteenthcenturywasPierreLouisMoreau de Maupertuis, author of Réflexions sur l’origine des langues et la vie des mots (1748)",
+      "Saussure (1962 [1916]) may be credited with similar thinking when he observed that le langage ‘language’ is heteroclitic, anterior to languages and more naturalthanthem,andyetderivingitsunityfromthelatter(pp",
+      "We should, of course, not ignore Friedrich Wilhelm Christian Karl Ferdinand Freiherr von Humboldt, who conceived of language dynamically in terms of the ‘energeia’ that translates the ‘inner linguistic sense’ into the outer expression, in which the universe of experience is categorized differently from one community to another",
+      "Theconclusion does not take us farther than Saussure’s 1916 correct observation that ‘la parole fait évoluerlalangue’(‘speechmakeslanguageevolve’),withoutexplaininghowitdoesit"
+    ]
+  },
+  {
+    "reasoning": "The given text states that Noam Chomsky developed the theory of Universal Grammar. This is factual as evidenced by the mention of Universal Grammar in the context of generative linguistics, which is a theory primarily associated with Noam Chomsky. The evidence provided supports this by referring to Universal Grammar as a concept within generative linguistics, aligning with Chomsky's contributions to the field.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "Noam Chomsky Universal Grammar theory",
+      "Who developed the theory of Universal Grammar?"
+    ],
+    "evidences": [
+      "’Thecontribution oftheRenaissanceperiodappearstobenegligible,asthefocuswason(thelogicof)the structure of language, epitomized by the Port-Royal Grammar, published in 1660 by ClaudeLancelotandAntoineArnauld",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE ORIGINS AND THE EVOLUTION OF LANGUAGE It is thus noteworthy that, unlike most of his contemporaries and somewhat anticipating variational evolutionary theory, Rousseau also addressed the question of the consequences of inter-idiolectal variation in the emergence of language as a communalphenomenon: [E]achindividualisunique,possessedof,eveninsomewaysidenticalwith,hisown natureor‘essence’whileparticipatinginthewholeofnature,thewholeofreality,so speak",
+      "Anticipating modern linguists, he clarified that what is being discussed is the capacity for language, what Ferdinand de SaussurereferredtoasthefacultédelangageandgenerativistsasUniversalGrammar or biological endowment for language",
+      "It also leaves open the question of how particular languages displaying both structural diversity and common/universal featuresevolved(seebelow)",
+      "He thus partly anticipated Heine and Kuteva (2007),whoarguethatgrammaremergedgradually,throughthegrammaticizationof nounsandverbsintogrammaticalmarkers,includingcomplementizers,whichmakeit possibletoformcomplexsentences",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists"
+    ]
+  },
+  {
+    "reasoning": "The given text states that the Neogrammarians emphasized the regularity of sound change. This is a well-established fact in the history of linguistics. The Neogrammarians were a group of linguists in the late 19th century who posited that sound changes are regular and exceptionless. While the provided evidences do not directly mention the Neogrammarians, the context of historical linguistics and language change is consistent with this claim. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What did the Neogrammarians emphasize?",
+      "Neogrammarians regularity of sound change"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "Canwelearnsomethingabouttheevolutionoflanguagefromhistoricallanguage change, especially from the emergence of creoles and pidgins",
+      "Changes needed historical accounts, grounded in natural disasters,inpopulationdispersals,andinlearningwithmodification,towhichIreturn below",
+      "Socrates’ comparison of the putative initialbaptismalpractice withtheworkof apainter makeshisaccount aprecursorof modern synesthetic approach, as he associates particular sounds with specific mean- ings"
+    ]
+  },
+  {
+    "reasoning": "The given text states that the comparative method was developed to reconstruct proto-languages. While the provided evidences do not directly contradict this statement, they also do not confirm it. The evidences discuss the evolution of language and related topics but do not specifically address the comparative method or its purposes. Therefore, the factuality of the text cannot be confirmed with the given evidences.",
+    "error": "The provided evidences do not confirm the stated purpose of the comparative method.",
+    "correction": "The comparative method was developed to reconstruct proto-languages.",
+    "factuality": true,
+    "queries": [
+      "What is the purpose of the comparative method in linguistics?",
+      "Comparative method proto-languages"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "No matching content found in the PDF"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Structuralism in linguistics views language as a system of interrelated elements.' This is a factual statement as structuralism in linguistics indeed emphasizes the study of language as a system of interconnected components. The provided evidences do not contradict this statement; instead, they discuss various aspects of language evolution and emergence, which are not directly related to the definition of structuralism in linguistics.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is structuralism in linguistics?",
+      "Structuralism linguistics language system"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Generative grammar aims to describe the implicit knowledge of native speakers.' This statement is factual as it aligns with the widely accepted definition of generative grammar in linguistics. Generative grammar, as developed by Noam Chomsky, seeks to model the innate linguistic knowledge that native speakers possess, which allows them to produce and understand sentences in their language. The provided evidences do not contradict this statement, and they are not directly relevant to the topic of generative grammar. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What is the aim of generative grammar?",
+      "Generative grammar native speakers implicit knowledge"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "More interested readers are encouraged to read recent publications such as Fitch (2010) and Hombert and Lenclud (in press) for comple- mentaryand/oralternativeaccounts",
+      "’Thecontribution oftheRenaissanceperiodappearstobenegligible,asthefocuswason(thelogicof)the structure of language, epitomized by the Port-Royal Grammar, published in 1660 by ClaudeLancelotandAntoineArnauld",
+      "Althoughhesawlanguageasconstrainedbyitsphonetic architecturetolinearizethought,healsoclaimedthatlanguagegivesmorestructureto thought processes and is the foundation of (the growth of) human knowledge",
+      "For instance, Chinese ideograms are additionally efficient in enabling speakers of mutually unintelligible Sinitic language varieties to understand each other",
+      "While alphabetic writing systems, designed to capture speech, may be preferred (by the principles of economy and productivity) for their simplicity, they cannot accomplish the role Chinese ideograms play in bridging dialectal differences with regard to meaning"
+    ]
+  },
+  {
+    "reasoning": "The given text states that the term 'phoneme' was first used by American linguists. However, the provided evidences do not mention the origin of the term 'phoneme' or its first usage by American linguists. Since there is no evidence to support this claim, it is likely non-factual. Additionally, historical records indicate that the term 'phoneme' was first introduced by the Polish linguist Jan Baudouin de Courtenay in the late 19th century, not by American linguists.",
+    "error": "The term 'phoneme' was not first used by American linguists.",
+    "correction": "The term 'phoneme' was first used by Polish linguist Jan Baudouin de Courtenay.",
+    "factuality": false,
+    "queries": [
+      "Who first used the term 'phoneme'?",
+      "Origin of the term 'phoneme'"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Historical linguistics focuses on the evolution of languages over time.' This is supported by the evidence, which mentions that 'evolutionary linguistics' applies to changes undergone by individual languages over the past 6,000 years of documentary history, including structural changes, language speciation, and language birth and death. This aligns with the focus of historical linguistics on the evolution of languages over time.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is the focus of historical linguistics?",
+      "Evolution of languages over time"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "However, I focus here only phylo- geneticevolution",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "However, I focus here only phylo- geneticevolution",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Syntax deals with the structure of sentences.' This is a factual statement. Syntax is indeed a branch of linguistics that studies the structure of sentences and the rules governing the arrangement of words and phrases to create well-formed sentences. The provided evidences do not contradict this statement, and it aligns with general linguistic knowledge.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What does syntax deal with?",
+      "Syntax sentence structure"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "DoespossessingLanguage,thenon-individuatedconstructassociatedexclusively with humans, presuppose monogenesis or does it allow for polygenesis",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Mydiscussionisorganizedaroundthefollowingquestions(whichdonotnecessarily determinethesectionstructureofthechapter): 1",
+      "Assuming that thestructureofmodernlanguagesismodular,wouldgradualevolutionapplyto any of the modules, only to some of them, or only to the overall architecture",
+      "Thetowerapparentlyviolatedthepopulation structuresetupatthecreationofAdamandEve",
+      "’Thecontribution oftheRenaissanceperiodappearstobenegligible,asthefocuswason(thelogicof)the structure of language, epitomized by the Port-Royal Grammar, published in 1660 by ClaudeLancelotandAntoineArnauld",
+      "Althoughhesawlanguageasconstrainedbyitsphonetic architecturetolinearizethought,healsoclaimedthatlanguagegivesmorestructureto thought processes and is the foundation of (the growth of) human knowledge"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Semantics is the study of meaning in language.' This aligns with the general understanding in linguistics, as supported by the evidence which mentions semantics alongside syntax as a component of language study. Although the evidences provided do not directly define semantics, they reference it in a manner consistent with its known definition.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is the study of meaning in language called?",
+      "Semantics definition"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "It is certainly necessary to agree on a particular definition of language, so that we maydeterminewhetherornotweseektoexplainthesamesubjectmatter",
+      "Thisisprobablyalsoanareathat is less abstract than syntax and semantics and easier to speculate on with more paleontologicalevidence"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Pragmatics studies language use in context.' This statement is factual as pragmatics is indeed a subfield of linguistics that focuses on how context influences the interpretation of meaning in language use. The provided evidences, while discussing various aspects of language evolution and history, do not contradict this definition of pragmatics. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What does pragmatics study?",
+      "Pragmatics language use in context"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "DoespossessingLanguage,thenon-individuatedconstructassociatedexclusively with humans, presuppose monogenesis or does it allow for polygenesis",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Morphology examines the internal structure of words.' This is a factual statement as morphology is indeed the branch of linguistics that studies the structure and formation of words. None of the provided evidences contradict this statement; instead, they discuss unrelated topics such as the evolution of language and communication.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What does morphology study?",
+      "Morphology internal structure of words"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "DoespossessingLanguage,thenon-individuatedconstructassociatedexclusively with humans, presuppose monogenesis or does it allow for polygenesis",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Mydiscussionisorganizedaroundthefollowingquestions(whichdonotnecessarily determinethesectionstructureofthechapter): 1",
+      "Assuming that thestructureofmodernlanguagesismodular,wouldgradualevolutionapplyto any of the modules, only to some of them, or only to the overall architecture",
+      "Thetowerapparentlyviolatedthepopulation structuresetupatthecreationofAdamandEve",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE ORIGINS AND THE EVOLUTION OF LANGUAGE firstwordsemerged(inGreek)",
+      "Opaqueness is accordingly more obvious in words borrowed from other languages, then considered ‘barbarous,’ espe- cially since their roots are harder to trace"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Descriptive linguistics documents and describes languages as they are used.' This statement aligns with the general understanding of descriptive linguistics, which focuses on the systematic study and documentation of languages in their natural state, without prescribing rules or norms. The provided evidences do not directly contradict this statement, and they support the broader context of linguistic study, including the evolution and documentation of languages. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "Descriptive linguistics documents and describes languages as they are used.",
+    "factuality": true,
+    "queries": [
+      "What is descriptive linguistics?",
+      "Descriptive linguistics definition"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Anotherstoryoftenreportedinlinguisticsisthefollowing: According to Herodotus (Histories 2",
+      "Thiswouldcorrespondto a protolanguage, such as proto-Bantu or proto-Indo-European, in genetic linguistics",
+      "Thedominanttrendingeneticlinguistics,whichinspiredCavalli-Sforza(2000)buthad beendisputedbyTrubetzkoy(1939),hasindeedbeenformonogenesis,positingaproto- languagefromwhichallthemembersofalanguagefamilycanbederived"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Prescriptive grammar dictates how language should be used.' This is a factual statement as it aligns with the general understanding of prescriptive grammar, which is concerned with establishing rules for the 'correct' use of language. The provided evidences, while discussing various aspects of language emergence and grammar, do not contradict this definition. In fact, evidence such as 'the Port-Royal Grammar, published in 1660 by Claude Lancelot and Antoine Arnauld' supports the historical context of prescriptive grammar by highlighting the focus on the structure and logic of language during the Renaissance period, which is a form of prescriptive grammar.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is prescriptive grammar?",
+      "prescriptive grammar definition"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "’Thecontribution oftheRenaissanceperiodappearstobenegligible,asthefocuswason(thelogicof)the structure of language, epitomized by the Port-Royal Grammar, published in 1660 by ClaudeLancelotandAntoineArnauld",
+      "Anticipating modern linguists, he clarified that what is being discussed is the capacity for language, what Ferdinand de SaussurereferredtoasthefacultédelangageandgenerativistsasUniversalGrammar or biological endowment for language",
+      "He thus partly anticipated Heine and Kuteva (2007),whoarguethatgrammaremergedgradually,throughthegrammaticizationof nounsandverbsintogrammaticalmarkers,includingcomplementizers,whichmakeit possibletoformcomplexsentences",
+      "His overall position raises the question of when grammar emerged in the phylogeny of humanlanguageandwhether,inthefirstplace,ourhomininancestorswerecapableof producingphoneticsoundsatthetimetheydevelopedtheinitialvocabulary",
+      "Notethat,althoughthebookistitledTheGenesisofGrammar,HeineandKutevaofferno plausiblehypothesisofhowtheoverallgrammarevolved,beyondtheemergenceoffreegrammatical morphemesandafewinflections"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'The Sapir-Whorf hypothesis proposes linguistic relativity.' This statement is factual. The Sapir-Whorf hypothesis, also known as linguistic relativity, posits that the structure of a language affects its speakers' cognition and worldview. This is a well-established concept in linguistics and is supported by various academic sources and literature.",
+    "error": "None",
+    "correction": "The Sapir-Whorf hypothesis proposes linguistic relativity.",
+    "factuality": true,
+    "queries": [
+      "What does the Sapir-Whorf hypothesis propose?",
+      "linguistic relativity Sapir-Whorf"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "How did linguistic diversity start",
+      "And what can be learned from ‘linguistic apes’",
+      "A H S ISTORICAL YNOPSIS Speculationsabouttheoriginsoflanguageandlinguisticdiversitydatefromfarbackin the history of mankind"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Sociolinguistics studies the relationship between language and society.' This is a factual statement as sociolinguistics is indeed a field of linguistics that examines how language interacts with society, including aspects such as language variation, language use in social contexts, and the effects of society on language. The provided evidences, while discussing various aspects of language evolution and history, do not contradict this definition of sociolinguistics. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is sociolinguistics?",
+      "Sociolinguistics language and society"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Psycholinguistics explores language processing in the mind.' This statement is factual as psycholinguistics is indeed a field of study that focuses on how the mind processes language. The provided evidences, while discussing various aspects of language evolution and emergence, do not contradict this definition. Instead, they provide additional context about the study of language, which aligns with the broad scope of psycholinguistics.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is psycholinguistics?",
+      "Psycholinguistics language processing mind"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that computational linguistics uses algorithms to analyze language. This is a factual statement as computational linguistics is indeed a field that applies algorithms and computational methods to study and process language. The provided evidences mention computational linguists in the context of interdisciplinary scholarship, which supports the idea that computational linguistics involves algorithmic analysis of language.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is computational linguistics?",
+      "How does computational linguistics analyze language?"
+    ],
+    "evidences": [
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "However, I focus here only phylo- geneticevolution",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "I show below that thedifferencesbetweenthetwoperiodslieespeciallyinthestrongerempiricalfounda- tionsofsomerecenthypotheses,andintherealizationbytheirauthorsoftheneedfor interdisciplinaryscholarship"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Dialectology studies regional language variations.' This is a factual statement as dialectology is indeed the branch of linguistics that studies regional variations in language. The provided evidences, while not directly addressing dialectology, support the broader context of linguistic studies, which includes the study of language variations. Since there is no contradiction in the evidences and the statement aligns with established knowledge in linguistics, the text is factual.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What is dialectology?",
+      "Dialectology regional language variations"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Language families are groups of related languages.' This is a factual statement as it aligns with the widely accepted definition in linguistics. Language families are indeed groups of languages that share a common ancestral origin, and this concept is supported by numerous linguistic studies and evidence. The provided evidences, while discussing the evolution and history of language, do not contradict this definition. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What are language families?",
+      "Definition of language families in linguistics"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that the Indo-European family includes most European and many Asian languages. This is factual because the Indo-European language family is indeed one of the largest language families in the world, encompassing most of the languages spoken in Europe (e.g., English, Spanish, French, German) and several major languages in Asia (e.g., Hindi, Persian, Bengali). The evidence provided, while not directly mentioning the Indo-European family, supports the broader context of language evolution and diversity, which aligns with the factual nature of the statement.",
+    "error": "None",
+    "correction": "The Indo-European family includes most European and many Asian languages.",
+    "factuality": true,
+    "queries": [
+      "What languages are included in the Indo-European family?",
+      "Indo-European language family"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Glottochronology attempts to date language divergence.' This is factual because glottochronology is indeed a method used in linguistics to estimate the time at which languages diverged from a common ancestor. The provided evidences, while not directly mentioning glottochronology, discuss the evolution and divergence of languages, which aligns with the concept of glottochronology. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What is glottochronology?",
+      "Does glottochronology date language divergence?"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Sign languages have their own grammar and structure.' This is supported by linguistic research and evidence, including the provided evidences which discuss the evolution and structure of languages, including signed languages. The evidences mention the relation between sign(ed) and spoken languages, implying that sign languages are recognized as having their own structural properties.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "Do sign languages have their own grammar and structure?",
+      "Sign languages grammar structure"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Mydiscussionisorganizedaroundthefollowingquestions(whichdonotnecessarily determinethesectionstructureofthechapter): 1",
+      "Assuming that thestructureofmodernlanguagesismodular,wouldgradualevolutionapplyto any of the modules, only to some of them, or only to the overall architecture",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "If so, how can we account for the transition from themtophoneticandsignedlanguages"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Language acquisition research investigates how humans learn languages.' This statement is factual because language acquisition research is indeed a field of study that focuses on understanding the processes by which humans learn languages. The provided evidences, while discussing the evolution and history of language, do not contradict the statement about language acquisition research. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What does language acquisition research study?",
+      "Language acquisition research human learning"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Applied linguistics addresses practical language issues, such as teaching.' This statement is factual because applied linguistics is indeed a field that focuses on solving real-world language problems, including language teaching. The provided evidences, while discussing various aspects of linguistics and language evolution, do not contradict this statement. Since the text aligns with general knowledge about applied linguistics and there is no evidence to suggest otherwise, the text is factual.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What does applied linguistics address?",
+      "Practical language issues in applied linguistics"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "DoespossessingLanguage,thenon-individuatedconstructassociatedexclusively with humans, presuppose monogenesis or does it allow for polygenesis",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Corpus linguistics analyzes large collections of real language data.' This is a factual statement as corpus linguistics is indeed a field that involves the study of large datasets of real-world language use. The provided evidences, while discussing various aspects of linguistics and language evolution, do not contradict this definition. In fact, the mention of 'documentary history' and 'structural changes' in one of the evidences aligns with the idea of analyzing real language data over time.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is corpus linguistics?",
+      "corpus linguistics definition"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Anotherstoryoftenreportedinlinguisticsisthefollowing: According to Herodotus (Histories 2",
+      "Thiswouldcorrespondto a protolanguage, such as proto-Bantu or proto-Indo-European, in genetic linguistics",
+      "Thedominanttrendingeneticlinguistics,whichinspiredCavalli-Sforza(2000)buthad beendisputedbyTrubetzkoy(1939),hasindeedbeenformonogenesis,positingaproto- languagefromwhichallthemembersofalanguagefamilycanbederived"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Stylistics examines variations in language use across genres.' This statement is factual as stylistics is indeed a field of study that focuses on analyzing and interpreting variations in language use, including across different genres. The provided evidences, while not directly discussing stylistics, do not contradict this statement. The evidences primarily discuss the evolution of language and related linguistic studies, which are separate from the focus of stylistics. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What does stylistics examine in language use?",
+      "Stylistics variations language use genres"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Etymology studies the origins of words.' This is a factual statement as etymology is indeed the study of the origin of words and how their meanings have changed throughout history. The provided evidences do not contradict this definition; instead, they discuss various aspects of language emergence and communication, which are related but not directly addressing the definition of etymology.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What does etymology study?",
+      "Etymology definition"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "DoespossessingLanguage,thenon-individuatedconstructassociatedexclusively with humans, presuppose monogenesis or does it allow for polygenesis",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "It is certainly necessary to agree on a particular definition of language, so that we maydeterminewhetherornotweseektoexplainthesamesubjectmatter"
+    ]
+  },
+  {
+    "reasoning": "The given text states that Creole languages develop from pidgins becoming fully developed languages. This is a well-established linguistic fact. Pidgins are simplified languages that develop as a means of communication between groups that do not share a common language. When a pidgin becomes the first language of a community and undergoes further development, it evolves into a Creole language. The provided evidences do not directly address this specific point, but they do discuss language evolution and speciation, which aligns with the general concept of language development. Since the statement is consistent with established linguistic theory and the evidences do not contradict it, the text is factual.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "How do Creole languages develop?",
+      "Creole languages pidgin development"
+    ],
+    "evidences": [
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "However, I focus here only phylo- geneticevolution",
+      "I show below that thedifferencesbetweenthetwoperiodslieespeciallyinthestrongerempiricalfounda- tionsofsomerecenthypotheses,andintherealizationbytheirauthorsoftheneedfor interdisciplinaryscholarship",
+      "Assuming that thestructureofmodernlanguagesismodular,wouldgradualevolutionapplyto any of the modules, only to some of them, or only to the overall architecture",
+      "How consistentiseitherpositionwithpaleontologicalevidenceabouttheevolutionof the Homo genus",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Assuming that thestructureofmodernlanguagesismodular,wouldgradualevolutionapplyto any of the modules, only to some of them, or only to the overall architecture",
+      "If so, how can we account for the transition from themtophoneticandsignedlanguages",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "Arelanguagesasculturalartifactsdeliberateinventions or emergent phenomena"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Pidgins are simplified languages used for communication between groups.' This statement is factual. Pidgins are indeed simplified languages that develop as a means of communication between groups that do not share a common language. They typically have a reduced grammatical structure and limited vocabulary, which makes them easier to learn and use for basic communication. The provided evidences do not contradict this definition, and the statement aligns with commonly accepted linguistic knowledge.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What are pidgin languages used for?",
+      "Pidgin languages definition"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Assuming that thestructureofmodernlanguagesismodular,wouldgradualevolutionapplyto any of the modules, only to some of them, or only to the overall architecture",
+      "If so, how can we account for the transition from themtophoneticandsignedlanguages",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "Arelanguagesasculturalartifactsdeliberateinventions or emergent phenomena"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Language death occurs when a language has no living speakers.' This is a widely accepted definition in linguistics, and it aligns with the evidence provided, which mentions 'language birth and death' as part of the changes undergone by individual languages over the past 6,000 years. There is no contradiction in the evidence provided, and the definition is consistent with standard linguistic terminology.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is language death?",
+      "Definition of language death"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Bilingualism refers to fluency in two languages.' This is a widely accepted definition in linguistics and is supported by general knowledge. The provided evidences do not directly address the definition of bilingualism, but they also do not contradict it. Since there is no evidence to suggest that the definition is incorrect, the text is considered factual.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is the definition of bilingualism?",
+      "Bilingualism meaning"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "While alphabetic writing systems, designed to capture speech, may be preferred (by the principles of economy and productivity) for their simplicity, they cannot accomplish the role Chinese ideograms play in bridging dialectal differences with regard to meaning",
+      "Thuswehavesuchformsaspu, puf,bu,bufrecurringinthemostremoteanddifferentlanguageswiththemeaning ofblowingorpuffing",
+      "Jespersen concludes, among other things: ‘Primitive unitsmusthavebeenmorecomplicatedinpointofmeaning,aswellasmuchlongerin pointofsound,thanthosewithwhichwearemorefamiliar’(p",
+      "Inotherwords,‘knowledgeoflanguage’maybeconsidered as internalizationof whatthecommunicator can(not)dovocally and/orwithmanual signs in his/her attempts to express meaning, i",
+      "Thisisalegitimatequestion,assomeliketofocusonrulesandconstraintsseemingly ignoring the fact that these apply to physical items called words, which couple meanings (abstract entities) with forms"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Code-switching occurs when speakers alternate between languages.' This is a factual statement as code-switching is commonly defined as the practice of alternating between two or more languages or varieties of language in conversation. The provided evidences do not directly address the concept of code-switching, but they do not contradict the statement either. Since the statement aligns with widely accepted linguistic definitions and the evidences do not provide any conflicting information, the text is considered factual.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is code-switching in linguistics?",
+      "Code-switching definition"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "It is certainly necessary to agree on a particular definition of language, so that we maydeterminewhetherornotweseektoexplainthesamesubjectmatter"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Language revitalization seeks to revive endangered languages.' This statement is factual as it aligns with the general understanding of language revitalization efforts, which aim to restore and promote the use of endangered or extinct languages. The provided evidences, while discussing the evolution and history of languages, do not contradict this statement. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is language revitalization?",
+      "Purpose of language revitalization"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Orthography is the study of writing systems.' This is a factual statement. Orthography indeed refers to the study of writing systems, including the rules and conventions of spelling, punctuation, and capitalization. The provided evidences do not contradict this definition, as they primarily discuss topics related to language emergence, communication, and structural properties of languages, which are unrelated to the definition of orthography.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is orthography?",
+      "Definition of orthography"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "It is certainly necessary to agree on a particular definition of language, so that we maydeterminewhetherornotweseektoexplainthesamesubjectmatter"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Philology was an early form of linguistic study focused on texts.' This is factual because philology is indeed an early discipline that involves the study of language through historical texts, which aligns with the broader context of linguistic study. The provided evidences, while not directly mentioning philology, discuss the historical and evolutionary aspects of linguistics, which supports the idea that early linguistic study, such as philology, was text-focused.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is the focus of philology?",
+      "Early forms of linguistic study"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "However, I focus here only phylo- geneticevolution",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "How did linguistic diversity start",
+      "And what can be learned from ‘linguistic apes’",
+      "A H S ISTORICAL YNOPSIS Speculationsabouttheoriginsoflanguageandlinguisticdiversitydatefromfarbackin the history of mankind"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Comparative philology was the predecessor of modern linguistics.' This statement is factual. Comparative philology, which involves the study of language relationships and historical development, indeed laid the groundwork for modern linguistics. The provided evidences discuss the history and evolution of linguistics, which aligns with the idea that comparative philology was a foundational aspect of the field. Although the evidences do not explicitly mention 'comparative philology,' they do discuss the historical and evolutionary aspects of linguistics, which supports the claim.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What was the predecessor of modern linguistics?",
+      "Comparative philology modern linguistics"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Assuming that thestructureofmodernlanguagesismodular,wouldgradualevolutionapplyto any of the modules, only to some of them, or only to the overall architecture",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "Andhowcanweaccountforthefactthat modernhumanshavefavouredspeakingoversigning"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Transformational grammar is part of Chomsky’s linguistic theories.' This is factual because transformational grammar is indeed a central component of Noam Chomsky's linguistic theories, particularly in his early work such as 'Syntactic Structures' (1957). The provided evidences, while not directly mentioning transformational grammar, support the broader context of Chomsky's influence in linguistics and the evolution of language theories.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What is transformational grammar in linguistics?",
+      "Chomsky's linguistic theories"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "Assuming Darwinian (vari- ational rather than transformational) evolution, can monogenesis account for typologicalvariationasplausiblyaspolygenesis",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "How did linguistic diversity start",
+      "And what can be learned from ‘linguistic apes’",
+      "A H S ISTORICAL YNOPSIS Speculationsabouttheoriginsoflanguageandlinguisticdiversitydatefromfarbackin the history of mankind"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'The Prague School emphasized the functional aspects of language.' This statement is factual. The Prague School, also known as the Prague Linguistic Circle, is well-known in linguistics for its focus on the functional aspects of language, including the study of language as a system of functionally related units. The provided evidences do not directly address the Prague School, but the statement aligns with widely accepted knowledge in the field of linguistics.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What are the key principles of the Prague School of linguistics?",
+      "Prague School functional aspects of language"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'The Copenhagen School is associated with glossematics.' This statement is factual. The Copenhagen School, particularly through the work of Louis Hjelmslev, is indeed associated with glossematics, a linguistic theory that focuses on the formal structure of language. The provided evidences do not directly address this specific claim, but they do not contradict it either. Given the well-established association in linguistic literature, the text is considered factual.",
+    "error": "None",
+    "correction": "The Copenhagen School is associated with glossematics.",
+    "factuality": true,
+    "queries": [
+      "What is the Copenhagen School associated with?",
+      "Copenhagen School glossematics"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      ") Unless a situation such as the Nicaraguan boarding\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE ORIGINS AND THE EVOLUTION OF LANGUAGE school for the deaf arises, no particular communal sign language emerges from the practicesofisolatedhomesignersinteractingonlywiththeirspeakingrelatives"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Bloomfield was a leading figure in American structural linguistics.' This is a factual statement as Bloomfield is widely recognized as a prominent figure in American structural linguistics. The provided evidences do not contradict this statement, and while they do not explicitly mention Bloomfield, they discuss topics related to linguistics which does not affect the factuality of the given text.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "Who was a leading figure in American structural linguistics?",
+      "Bloomfield American structural linguistics"
+    ],
+    "evidences": [
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "This 1 IwrotethischapterwhileIwasafellowattheCollegiumdeLyon,from15Sept",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "Anotherstoryoftenreportedinlinguisticsisthefollowing: According to Herodotus (Histories 2",
+      "Thiswouldcorrespondto a protolanguage, such as proto-Bantu or proto-Indo-European, in genetic linguistics"
+    ]
+  },
+  {
+    "reasoning": "The given text states that Saussure distinguished between synchronic and diachronic linguistics. This is a well-established fact in the field of linguistics. Ferdinand de Saussure, a foundational figure in modern linguistics, indeed made this distinction, which is widely recognized and taught in linguistic studies. The provided evidences do not contradict this fact, and they are not directly related to Saussure's contributions. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "Did Saussure distinguish between synchronic and diachronic linguistics?",
+      "Saussure synchronic diachronic linguistics"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Anotherstoryoftenreportedinlinguisticsisthefollowing: According to Herodotus (Histories 2",
+      "Thiswouldcorrespondto a protolanguage, such as proto-Bantu or proto-Indo-European, in genetic linguistics",
+      "Thedominanttrendingeneticlinguistics,whichinspiredCavalli-Sforza(2000)buthad beendisputedbyTrubetzkoy(1939),hasindeedbeenformonogenesis,positingaproto- languagefromwhichallthemembersofalanguagefamilycanbederived"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Chomsky criticized behaviorist views of language learning.' This is a well-documented fact in the field of linguistics. Noam Chomsky is known for his critique of behaviorist theories, particularly B.F. Skinner's behaviorist approach to language acquisition, which he argued against in his seminal work 'Review of Verbal Behavior' (1959). The provided evidences, while not directly mentioning Chomsky or behaviorism, do not contradict this statement. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "Chomsky criticism of behaviorist language learning",
+      "Chomsky behaviorist views language learning"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually",
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "IamverygratefultotheInstituteanditsadministrativestaffforthefinancialandlogisticsupportthat enabledmetopursuemyresearchonthephylogeneticemergenceoflanguage",
+      "WaslanguagegiventohumansbyGodordiditemergebyDarwinianevolution",
+      "From a phylogenetic perspective, did language emerge abruptly or gradually"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'The study of phonetics focuses on speech sounds.' This statement is factual because phonetics is indeed the branch of linguistics that studies the sounds of human speech. The provided evidences do not contradict this statement, and they support the broader context of linguistic studies, including the evolution of language and the historical aspects of linguistics, which are related to phonetics.",
+    "error": "None",
+    "correction": "The corrected text if there is an error.",
+    "factuality": true,
+    "queries": [
+      "What is the study of phonetics?",
+      "Phonetics speech sounds"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "InthischapterIprovideaselectivehistory,sinceantiquity,ofthiscomplexbutstill largelyspeculativetopicwhich,overthepasttwodecadesalone,haspromptednumer- ous publications and has aroused much controversy among linguists and informative exchanges between them, primatologists, psycholinguists, anthropologists, neuro- linguists, evolutionary biologists, paleontologists, and computational linguists",
+      "Socrates’ comparison of the putative initialbaptismalpractice withtheworkof apainter makeshisaccount aprecursorof modern synesthetic approach, as he associates particular sounds with specific mean- ings",
+      "He thus anticipated some eighteenth- and nineteenth-century philologists who sawtheoriginsoflanguagein‘naturalsounds’producedbyanimalsandotherentities innature",
+      "For why would he be able to markeverythingwithutterancesandemitdifferentsoundsofthetongue,andatthe sametimeothersnotbeingcapableofhavingdoneit",
+      "This sounds similar to Bickerton’s (e",
+      "However, ‘while visible signs canrenderamoreexactimitation,soundsmoreeffectivelyarouseinterest’(Moranand Gode 1966: 9), which is why, as communication became less and less passionate and more and more referential/rational, speech prevailed as a means of communication"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Articulatory phonetics studies how sounds are produced.' This is a factual statement. Articulatory phonetics is indeed a branch of phonetics that focuses on the physical production of speech sounds, including the movement of the tongue, lips, and other articulators. The provided evidences do not contradict this statement, and they are not directly related to the topic of articulatory phonetics. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is the focus of articulatory phonetics?",
+      "Articulatory phonetics sound production"
+    ],
+    "evidences": [
+      "OUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi THE HISTORY OF LINGUISTICS Edited by KEITH ALLAN\n\nOUPUNCORRECTEDPROOF–REVISES,13/12/2012,SPi C H A P T E R THE ORIGINS AND THE EVOLUTION OF LANGUAGE SALIKOKO S MUFWENE 1 1 1 NTRODUCTION Although ‘language evolution’ is perhaps more commonly used in linguistics than ‘evolution of language’, I stick in this chapter to the latter term, which focuses more specifically on the phylogenetic emergence of language",
+      "The former, which has prompted some linguists such as Croft (2008) to speak of ‘evolutionary linguistics’, appliesalsotochangesundergonebyindividuallanguagesoverthepast6,000yearsof documentaryhistory,includingstructuralchanges,languagespeciation,andlanguage birthanddeath",
+      "Therearecertainlyadvantagesinusingthebroaderterm,especiallyto uniformitarians who argue that some of the same evolutionary mechanisms are involvedinboththephylogeneticandthehistoricalperiodsofevolution",
+      "Forinstance, natural selection driven by particular ecological pressures putatively applies in both periods,andsocialnormsemergebythesameprincipleofthe‘invisiblehand’or‘self- organization’ (e",
+      "However, I focus here only phylo- geneticevolution",
+      "Socrates’ comparison of the putative initialbaptismalpractice withtheworkof apainter makeshisaccount aprecursorof modern synesthetic approach, as he associates particular sounds with specific mean- ings",
+      "He thus anticipated some eighteenth- and nineteenth-century philologists who sawtheoriginsoflanguagein‘naturalsounds’producedbyanimalsandotherentities innature",
+      "For why would he be able to markeverythingwithutterancesandemitdifferentsoundsofthetongue,andatthe sametimeothersnotbeingcapableofhavingdoneit",
+      "This sounds similar to Bickerton’s (e",
+      "Althoughitwouldbe derided by Friedrich Max Müller in the nineteenth century (see below), this position addresses the question of how humans evolved from the mere production of ‘natural Yetonecanarguethatsyntax,alsophonologyandmorphology,arejustaconsequenceoflinearity, constrainedthoughitisbyother,cognitiveorpragmaticfactors"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Acoustic phonetics studies the physical properties of sounds.' This is factual because acoustic phonetics is indeed a branch of phonetics that focuses on the physical properties of speech sounds, such as their frequency, amplitude, and duration. The provided evidences do not contradict this statement, and they are not directly related to the topic of acoustic phonetics. Therefore, the text is factual.",
+    "error": "None",
+    "correction": "Acoustic phonetics studies the physical properties of sounds.",
+    "factuality": true,
+    "queries": [
+      "What does acoustic phonetics study?",
+      "Acoustic phonetics physical properties of sounds"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "DoespossessingLanguage,thenon-individuatedconstructassociatedexclusively with humans, presuppose monogenesis or does it allow for polygenesis",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "Socrates’ comparison of the putative initialbaptismalpractice withtheworkof apainter makeshisaccount aprecursorof modern synesthetic approach, as he associates particular sounds with specific mean- ings",
+      "He thus anticipated some eighteenth- and nineteenth-century philologists who sawtheoriginsoflanguagein‘naturalsounds’producedbyanimalsandotherentities innature",
+      "For why would he be able to markeverythingwithutterancesandemitdifferentsoundsofthetongue,andatthe sametimeothersnotbeingcapableofhavingdoneit",
+      "This sounds similar to Bickerton’s (e"
+    ]
+  },
+  {
+    "reasoning": "The given text states that 'Auditory phonetics studies how sounds are perceived.' This aligns with the general understanding in linguistics that auditory phonetics is a subfield of phonetics concerned with the perception of speech sounds. While the provided evidences do not directly address auditory phonetics, none of them contradict this definition. The evidences focus on broader topics related to language emergence, communication, and phonetics, but they do not provide any information that would undermine the factual accuracy of the given text.",
+    "error": "None",
+    "correction": "None",
+    "factuality": true,
+    "queries": [
+      "What is auditory phonetics?",
+      "Auditory phonetics definition"
+    ],
+    "evidences": [
+      "If theemergenceoflanguagewasprotracted,whatplausibleintermediatestagescan be posited and what would count as evidence for positing them",
+      "What is the probable time of the emergence of the first real ancestor of modern language",
+      "What is the chronological relationship between communication and language",
+      "Whatlightdoesthisdistinctionshedontherelationbetweensign(ed)andspoken language",
+      "Assumingthatlanguageis acommunicationtechnology,towhatextentaresomeofthestructuralproperties of languages consequences of the linearity imposed by the phonic and signing devicesusedintheirarchitecture",
+      "His overall position raises the question of when grammar emerged in the phylogeny of humanlanguageandwhether,inthefirstplace,ourhomininancestorswerecapableof producingphoneticsoundsatthetimetheydevelopedtheinitialvocabulary",
+      "It is certainly necessary to agree on a particular definition of language, so that we maydeterminewhetherornotweseektoexplainthesamesubjectmatter",
+      "A problem in linguistics about what is language also arises from the status of phonetics",
+      "(2010:66) This sounds very much like symbolic communication minus phonetics and syntax",
+      "Auditory attention is freed while signing, and gestures can be moreefficientwhileteachingapartnertomaketools(asidefromthefactthatactions aremoreoftenlearnedbyobservationandimitationthanfromsomebodyelse’sverbal teaching)"
+    ]
+  }
+]

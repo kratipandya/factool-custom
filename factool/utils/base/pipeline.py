@@ -11,6 +11,7 @@ class pipeline():
 
         self.prompts_path = os.path.join(os.path.dirname(pathlib.Path(__file__)), "../prompts/")
         
-        with open(os.path.join(self.prompts_path, "self_check.yaml"), 'r') as file:
+        # Fix encoding here too
+        with open(os.path.join(self.prompts_path, "self_check.yaml"), 'r', encoding='utf-8') as file:
             data = yaml.load(file, Loader=yaml.FullLoader)
         self.self_check_prompt = data[domain]
