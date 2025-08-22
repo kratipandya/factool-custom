@@ -5,7 +5,7 @@ import os
 import openai
 
 # Set OpenRouter API key properly
-OPENROUTER_API_KEY = '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'
+OPENROUTER_API_KEY = 'sk-or-v1-...'
 
 # Configure OpenRouter settings
 os.environ['OPENROUTER_API_KEY'] = OPENROUTER_API_KEY
